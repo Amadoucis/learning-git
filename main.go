@@ -1,4 +1,5 @@
 
-func main():{
-}
-pp
+package main
+
+func main() { }
+
